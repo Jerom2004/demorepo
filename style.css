@@ -9,13 +9,13 @@ ul{
 ul li{
   list-style-type: none;
   padding: 10px;
-  color: aliceblue;
+  color: #f0f8ff;
   margin: 5px;
   border-radius: 10px;
 }
 header{
-  background-color: rgb(56, 64, 70);
+  background-color: #384046;
 }
 ul li:hover{
-  background-color: rgb(40, 48, 52);
+  background-color: #283034;
 }
