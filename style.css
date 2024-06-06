@@ -11,10 +11,11 @@ ul li{
   padding: 10px;
   color: aliceblue;
   margin: 5px;
+  border-radius: 10px;
 }
 header{
   background-color: rgb(56, 64, 70);
 }
 ul li:hover{
-  background-color: rgb(25, 31, 34);
+  background-color: rgb(40, 48, 52);
 }
