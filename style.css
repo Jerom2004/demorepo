@@ -15,3 +15,6 @@ ul li{
 header{
   background-color: rgb(56, 64, 70);
 }
+ul li:hover{
+  background-color: rgb(25, 31, 34);
+}
