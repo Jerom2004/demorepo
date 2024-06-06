@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ul{
+ display: flex;
+ justify-content: flex-end;
+}
+ul li{
+  list-style-type: none;
+  padding: 10px;
+  color: aliceblue;
+  margin: 5px;
+}
+header{
+  background-color: rgb(56, 64, 70);
+}
