@@ -9,13 +9,19 @@ ul{
 ul li{
   list-style-type: none;
   padding: 10px;
-  color: #f0f8ff;
+  color: #95999c;
   margin: 5px;
   border-radius: 10px;
+  transition-property:color ;
+  transition-duration:.5s ;
+  transition-timing-function: ease-in;
+  transition-delay: .1s;
 }
 header{
   background-color: #384046;
 }
 ul li:hover{
   background-color: #283034;
+  color: rgb(255, 255, 255);
+  
 }
